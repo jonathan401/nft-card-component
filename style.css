@@ -39,7 +39,7 @@ body {
   max-width: 375px;
   background-color: var(--card-bg);
   line-height: 1.5;
-  /* margin: 5px auto; */
+  font-family: 'Outfit', sans-serif;
 }
 
 .card .card-content {
